@@ -1,0 +1,1 @@
+const myimportedmodule= require('./index.js')
